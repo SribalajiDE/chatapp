@@ -5,8 +5,8 @@ import time
 
 # Dummy Credentials for Login
 USER_CREDENTIALS = {
-    'sri': 'sri123',
-    'div': 'div123'
+    'user1': 'you123',
+    'user2': 'me123'
 }
 
 # Page Configuration
